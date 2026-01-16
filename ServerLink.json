@@ -3,10 +3,11 @@
     "allowed_ip": "127.0.0.1:7777",
     "files": [
         {
-            "name": "FiturKeren.lua",
+            "name": "phone.lua",
             "url": "https://github.com/Khusfii/AutoUpdate/releases/download/1.0/phonebinara.lua",
             "version": "1.0"
         }
     ]
 
 }
+
