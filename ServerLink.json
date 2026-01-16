@@ -1,0 +1,11 @@
+{
+    "version": 1.8,
+    "allowed_ip": "127.0.0.1:7777",
+    "files": [
+        {
+            "name": "FiturKeren.lua",
+            "url": "https://raw.githubusercontent.com/user/repo/main/fitur.lua",
+            "version": "1.0"
+        }
+    ]
+}
