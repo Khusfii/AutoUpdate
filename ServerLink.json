@@ -4,12 +4,13 @@
     "files": [
         {
             "name": "phone.lua",
-            "url": "https://github.com/Khusfii/AutoUpdate/releases/download/1.0/phonebinara.lua",
+            "url": "https://raw.githubusercontent.com/Khusfii/AutoUpdate/releases/download/1.0/phonebinara.lua",
             "version": "2.0"
         }
     ]
 
 }
+
 
 
 
